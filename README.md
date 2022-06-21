@@ -1,10 +1,13 @@
  <h2>👋 Hi, I’m crushwan</h2>
  
  - 👀 I’m interested in `Full Stack Developer`
- - 🌱 I’m currently learning `MERN Stack`
- - 💞️ I’m looking to collaborate on ...
- - 📫 How to reach me ...
  
+ - 🌱 I’m currently learning `MERN Stack`
+ 
+ - 💞️ I’m looking to collaborate on ...
+ 
+ - 📫 How to reach me ...
+
 
 <!---
 crushwan/crushwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
