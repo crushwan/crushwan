@@ -1,9 +1,9 @@
- <h1>👋 Hi, I’m `crushwan`</h1>
+ <h1>👋 Hi, I’m crushwan</h1>
  
- 👀 I’m interested in `Full Stack Developer`
- 🌱 I’m currently learning `MERN Stack`
- 💞️ I’m looking to collaborate on ...
- 📫 How to reach me ...
+ - 👀 I’m interested in `Full Stack Developer`
+ - 🌱 I’m currently learning `MERN Stack`
+ - 💞️ I’m looking to collaborate on ...
+ - 📫 How to reach me ...
  
 
 <!---
