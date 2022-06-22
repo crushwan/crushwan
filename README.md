@@ -1,4 +1,6 @@
- <h2>👋 Hi, I’m crushwan</h2>
+<img src="https://img.freepik.com/free-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=2000"/>
+ 
+<h2 >👋 Hi, I’m crushwan</h2>
  
  - 👀 I’m interested in `Full Stack Developer`
  
@@ -6,8 +8,10 @@
  
  - 💞️ I’m looking to collaborate on ...
  
- - 📫 How to reach me ...
+ - 📫 How to reach me ... 
+ 
 
+<img src="https://firebasestorage.googleapis.com/v0/b/fireship-app.appspot.com/o/assets%2Fsticker-holo.png?alt=media&token=b41ebeaf-d5e9-4823-a294-5b11e63d7284"/>
 
 <!---
 crushwan/crushwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
