@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=2000"/>
+<!-- <img src="https://img.freepik.com/free-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg?w=2000"/> -->
  
 <h2 >👋 Hi, I’m crushwan</h2>
  
