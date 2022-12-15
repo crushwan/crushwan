@@ -11,7 +11,7 @@
  - 📫 How to reach me ... 
  
 
-<img src="https://firebasestorage.googleapis.com/v0/b/fireship-app.appspot.com/o/assets%2Fsticker-holo.png?alt=media&token=b41ebeaf-d5e9-4823-a294-5b11e63d7284"/>
+<!-- <img src="https://firebasestorage.googleapis.com/v0/b/fireship-app.appspot.com/o/assets%2Fsticker-holo.png?alt=media&token=b41ebeaf-d5e9-4823-a294-5b11e63d7284"/> -->
 
 <!---
 crushwan/crushwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
