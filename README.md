@@ -3,13 +3,13 @@
 <h1>👋 I'm Wan.</h1>
 
  
- - 👀 I’m interested in working as `Frontend Developer`
+ - 👀 I’m interested in working as `Full Stacks Developer`
  
  
  - 🌱 I’m currently learning `MERN Stack`
  
  
- - 💞️ I’m looking to collaborate on `ReactJs | NextJs | NodeJs | MongoDB Projects`
+ - 💞️ I’m looking to collaborate on `ReactJs | NextJs 13 | NodeJs | MongoDB | Firebase v9 | Sanity v3`
  
  
  - 📫 How to reach me via `Linkedin | Gmail`
