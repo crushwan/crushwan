@@ -1,15 +1,11 @@
 
 
-<h1>👋 I'm Wan.</h1>
+<h1>👋 I'm Wan</h1>
 
  
- - 👀 I’m interested in working as `MERN Stack Developer | React Native Developer `
+ - 👀 I’m interested in working as `Software Engineer | Full Stack Developer | React Native Dev | Front End Dev(React/Next.js) | Back End Dev(Node.js/Laravel/Django)`
  
- - 💞️ I’m looking to collaborate on `ReactJs | NextJs 13 | NodeJs | MongoDB | Firebase v9 | Sanity v3`
- 
- 
- - 📫 How to reach me via `Linkedin`
- 
+ - 📫 How to reach me via 
  <a href="https://www.linkedin.com/in/wan-ilyas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <br>
 <br>
