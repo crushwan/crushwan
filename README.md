@@ -33,12 +33,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true" />
 <img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true" />
 <!--START_STATS-->
-**Total Public Repos:** 0  
-**Followers:** 0  
-![](https://github-readme-stats.vercel.app/api?username=crushwan&show_icons=true&hide_border=false&cache_seconds=0)
 <!--END_STATS-->
 
 
