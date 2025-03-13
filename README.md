@@ -35,6 +35,11 @@
 
 <img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true" />
 <img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true" />
+<!--START_STATS-->
+**Total Public Repos:** 0  
+**Followers:** 0  
+![](https://github-readme-stats.vercel.app/api?username=crushwan&show_icons=true&hide_border=false&cache_seconds=0)
+<!--END_STATS-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crushwan&layout=compact)](https://github.com/crushwan/github-readme-stats)
