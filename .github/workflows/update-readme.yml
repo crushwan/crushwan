@@ -19,10 +19,7 @@ jobs:
                -H "Accept: application/vnd.github.v3+json" \
                https://api.github.com/users/crushwan > github-stats.json
 
-          TOTAL_REPOS=$(jq '.public_repos' github-stats.json)
-          TOTAL_FOLLOWERS=$(jq '.followers' github-stats.json)
-
-          echo -e "<img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true" />" >> README.md
+          echo "<img align=\"left\" alt=\"Crushwan's Github Stats\" src=\"https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true\" />" >> README.md
 
       - name: Commit & Push Changes
         env:
