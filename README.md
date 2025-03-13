@@ -33,8 +33,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true" />
 <!--START_STATS-->
+<img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true" />
 <!--END_STATS-->
 
 
@@ -63,4 +63,3 @@
 
 <h4>🛠️ CI/CD Tools</h4>
 <img alt="GIT ACTION" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/> -->
-<img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true" />
