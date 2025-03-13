@@ -33,7 +33,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crushwan&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crushwan&layout=compact)](https://github.com/crushwan/github-readme-stats)
 <!-- <h4>🛠️ Front-end Languages</h4>
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
