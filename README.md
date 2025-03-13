@@ -3,10 +3,10 @@
 <h1>👋 I'm Wan</h1>
 
  
- - 👀 I’m interested in working as `Software Engineer | Full Stack Developer | React Native Dev | Front End Dev(React/Next.js) | Back End Dev(Node.js/ExpressJs/NestJs/Laravel/)`
+ - 👀 I’m interested in working as `Software Engineer | Full Stack Dev | React Native Dev | Front End Dev(ReactJs/NextJs) | Back End Dev(NodeJs/ExpressJs/NestJs)`
  
- - 📫 How to reach me via 
- <a href="https://www.linkedin.com/in/wan-ilyas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ - 📫 How to reach me via
+ <a href="https://www.linkedin.com/in/wan-ilyas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
 <br>
 <br>
 
