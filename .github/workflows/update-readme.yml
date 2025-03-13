@@ -1,0 +1,36 @@
+name: Update Profile README with GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allow manual execution
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub stats
+        run: |
+          curl -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3+json" \
+               https://api.github.com/users/crushwan > github-stats.json
+
+          TOTAL_REPOS=$(jq '.public_repos' github-stats.json)
+          TOTAL_FOLLOWERS=$(jq '.followers' github-stats.json)
+
+          echo -e "## 🚀 GitHub Stats\n" > README.md
+          echo -e "**Total Public Repos:** $TOTAL_REPOS\n" >> README.md
+          echo -e "**Followers:** $TOTAL_FOLLOWERS\n" >> README.md
+          echo -e "![](https://github-readme-stats.vercel.app/api?username=crushwan&show_icons=true&hide_border=false)\n" >> README.md
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated GitHub stats 🚀" || exit 0
+          git push
