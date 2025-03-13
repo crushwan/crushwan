@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch GitHub stats
+      - name: Fetch latest GitHub stats
         run: |
           curl -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
                -H "Accept: application/vnd.github.v3+json" \
@@ -22,10 +22,10 @@ jobs:
           TOTAL_REPOS=$(jq '.public_repos' github-stats.json)
           TOTAL_FOLLOWERS=$(jq '.followers' github-stats.json)
 
-          echo -e "## 🚀 GitHub Stats\n" > README.md
+          echo -e "## 🚀 GitHub Stats (Updated Daily)\n" > README.md
           echo -e "**Total Public Repos:** $TOTAL_REPOS\n" >> README.md
           echo -e "**Followers:** $TOTAL_FOLLOWERS\n" >> README.md
-          echo -e "![](https://github-readme-stats.vercel.app/api?username=crushwan&show_icons=true&hide_border=false)\n" >> README.md
+          echo -e "![](https://github-readme-stats.vercel.app/api?username=crushwan&show_icons=true&hide_border=false&cache_seconds=0)\n" >> README.md
 
       - name: Commit & Push Changes
         run: |
