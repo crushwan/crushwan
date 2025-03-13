@@ -22,14 +22,7 @@ jobs:
           TOTAL_REPOS=$(jq '.public_repos' github-stats.json)
           TOTAL_FOLLOWERS=$(jq '.followers' github-stats.json)
 
-          # Preserve existing README and replace only stats section
-          awk '/<!--START_STATS-->/ {print;exit} {print}' README.md > README_NEW.md
-          echo "**Total Public Repos:** $TOTAL_REPOS  " >> README_NEW.md
-          echo "**Followers:** $TOTAL_FOLLOWERS  " >> README_NEW.md
-          echo "![](https://github-readme-stats.vercel.app/api?username=crushwan&show_icons=true&hide_border=false&cache_seconds=0)" >> README_NEW.md
-          awk '/<!--END_STATS-->/ {p=1} p' README.md >> README_NEW.md
-
-          mv README_NEW.md README.md
+          echo -e "<img align="left" alt="Crushwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crushwan&show_icons=true&hide_border=true&include_all_commits=true" />" >> README.md
 
       - name: Commit & Push Changes
         env:
@@ -41,3 +34,5 @@ jobs:
           git commit -m "Updated GitHub stats 🚀" || echo "No changes to commit"
           git pull --rebase origin main
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/crushwan/crushwan.git HEAD:main
+
+
